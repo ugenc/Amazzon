@@ -1,4 +1,4 @@
-# Amazzon ##Shopping App
+# Amazzon Shopping App
 ##### React Native Project | Kodluyoruz Bootcamp
 ##### Designed and Developed by Uğur Genç
 
